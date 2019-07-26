@@ -1,14 +1,42 @@
-body{
-	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQwlhxs5gueEnbTtnMlcSYCyu1XPgZ76KbjU5QF3oGYn7h3gAY);
-	text-align: center;
+/* CSS file for Homework #5 */
+
+
+body {
+    background-image: url("../images/trivia-bg.png");
+    color: rgb(243, 14, 14);
+    text-align: left;
+    font-family:'Righteous', cursive;
 }
 
-.text-muted{
-	color: blue;
+.cover-heading{
+    margin-top: 40px;
+    font-size: 80px;
 }
-.last-seconds{
-  color: red;
+
+#game-start{
+    margin-top: 70px;
+    font-size: 40px;
 }
-.option{
-  margin: 15px;
+
+#countdown {
+    font-size: 26px;
+    color:rgb(11, 7, 255);
+}
+
+#game-done {
+    font-size: 40px;
+}
+
+.lead2 {
+    font-size: 30px;
+    color: rgb(8, 8, 8);
+}
+
+.quest {
+    font-size: 26px;
+    color: rgb(106, 255, 7);
+}
+
+.text-mysize {
+    font-size: 20px;
 }
