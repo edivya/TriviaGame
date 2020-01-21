@@ -7,3 +7,7 @@
 ## Technology
 
 - This project was built with JavaScript, jQuery, Bootstrap, HTML, and CSS. Most all of the HTML content is generated dynamically through JavaScript.
+
+## Screenshots
+
+![TriviaGame](https://github.com/edivya/TriviaGame/blob/master/assets/images/Trivia%20Game.png)
