@@ -1,42 +1,43 @@
 /* CSS file for Homework #5 */
 
-
 body {
-    background-image: url("../images/trivia-bg.png");
-    color: rgb(243, 14, 14);
-    text-align: left;
-    font-family:'Righteous', cursive;
+  background-image: url("../images/trivia-bg.png");
+  color: rgb(243, 14, 14);
+  text-align: left;
+  font-family: "Rock Salt", cursive;
+
+  /* font-family:'Righteous', cursive; */
 }
 
-.cover-heading{
-    margin-top: 40px;
-    font-size: 80px;
+.cover-heading {
+  margin-top: 40px;
+  font-size: 80px;
 }
 
-#game-start{
-    margin-top: 70px;
-    font-size: 40px;
+#game-start {
+  margin-top: 70px;
+  font-size: 40px;
 }
 
 #countdown {
-    font-size: 26px;
-    color:rgb(11, 7, 255);
+  font-size: 26px;
+  color: rgb(11, 7, 255);
 }
 
 #game-done {
-    font-size: 40px;
+  font-size: 40px;
 }
 
 .lead2 {
-    font-size: 30px;
-    color: rgb(8, 8, 8);
+  font-size: 30px;
+  color: rgb(8, 8, 8);
 }
 
 .quest {
-    font-size: 26px;
-    color: rgb(106, 255, 7);
+  font-size: 26px;
+  color: rgb(106, 255, 7);
 }
 
 .text-mysize {
-    font-size: 20px;
+  font-size: 20px;
 }
