@@ -11,3 +11,5 @@
 ## Screenshots
 
 ![TriviaGame](https://github.com/edivya/TriviaGame/blob/master/assets/images/Trivia%20Game.png)
+
+![TriviaGame](<https://github.com/edivya/TriviaGame/blob/master/assets/images/Trivia%20Game(1).png>)
